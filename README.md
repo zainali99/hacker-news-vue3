@@ -20,5 +20,9 @@ yarn build
 yarn lint
 ```
 
+TODO:
+- pagination
+- ssr test
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
